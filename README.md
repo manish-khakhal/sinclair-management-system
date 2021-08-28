@@ -36,8 +36,8 @@ And then open http://localhost:3000 to view it in the browser.
 
 ## Credits
 
-Campus Recruitment System is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+This program is a modified copy of Safdar Jamal's Campus Recruitment System  [Safdar Jamal](https://safdarjamal.github.io).
 
 ## License
 
-This project is licensed under the terms of the [Apache License 2.0](https://github.com/SafdarJamal/campus-recruitment-system/blob/with-mern-stack/LICENSE).
+This project is licensed under the terms of the Apache License 2.0.
