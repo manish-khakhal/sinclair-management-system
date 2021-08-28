@@ -1,4 +1,4 @@
-# campus-recruitment-system
+# sinclair-management-system
 
 A recruiting software built with [React](https://reactjs.org)/[Redux](https://redux.js.org) (Client), [Node](https://nodejs.org)/[Express](https://expressjs.com) (API), and [MongoDB](https://www.mongodb.com) (Database).
 
@@ -7,8 +7,8 @@ A recruiting software built with [React](https://reactjs.org)/[Redux](https://re
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/campus-recruitment-system.git
-cd campus-recruitment-system
+git clone https://github.com/mindofrift/sinclair-management-system.git
+cd sinclair-management-system
 ```
 
 Install dependencies:
