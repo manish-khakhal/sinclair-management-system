@@ -36,7 +36,7 @@ And then open http://localhost:3000 to view it in the browser.
 
 ## Credits
 
-This program is a modified copy of Safdar Jamal's Campus Recruitment System  [Safdar Jamal](https://safdarjamal.github.io).
+This program is a modified copy of [Safdar Jamal](https://safdarjamal.github.io)'s Campus Recruitment System.
 
 ## License
 
